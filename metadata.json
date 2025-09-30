@@ -1,0 +1,5 @@
+{
+  "name": "Student Information Portal",
+  "description": "An interactive and user-friendly application designed to help students in Oman quickly and securely access their personal data, such as email and password, using their Civil ID.",
+  "requestFramePermissions": []
+}
